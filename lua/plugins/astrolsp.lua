@@ -4,7 +4,7 @@ return {
   ---@type AstroLSPOpts
   opts = {
     features = {
-      signature_help = true
+      signature_help = true,
     },
-  }
+  },
 }
